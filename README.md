@@ -32,7 +32,7 @@ This is a list of requirements for a web development assignment that involves cr
 Dream Echo is the ultimate platform for musicians to find the perfect bandmate or join a band they've been dreaming of. Discover a community of talented musicians and form your ultimate musical lineup.
 ### Links
 
-- Live Site URL: [Dream Echo](https://dailyjuices.okky.me/)
+- Live Site URL: [Dream Echo](https://week8.okky.me/index.html)
 - Alternative URL: [Netlify](dreamecho.netlify.app)
 
 ## My process
