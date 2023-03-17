@@ -33,7 +33,7 @@ Dream Echo is the ultimate platform for musicians to find the perfect bandmate o
 ### Links
 
 - Live Site URL: [Dream Echo](https://week8.okky.me/index.html)
-- Alternative URL: [Netlify](dreamecho.netlify.app)
+- Alternative URL: [Netlify](https://dreamecho.netlify.app/)
 
 ## My process
 
