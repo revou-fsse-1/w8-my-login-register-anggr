@@ -19,7 +19,7 @@ form.addEventListener("submit", function (event) {
     emailValidation.textContent = "Email already exists";
   } else {
     localStorage.setItem(email, password);
-    window.location.href = "../signin.html";
+    window.location.href = "../index.html";
   }
 });
 
